@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hola Mundo</string>
+
+    <string name="hello_world">Hola Mundo!</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="LargeTextString">Aqui va texto grande</string>
+    <string name="SmallTextHolder">Aqui iria texto pequeno</string>
+
+</resources>
